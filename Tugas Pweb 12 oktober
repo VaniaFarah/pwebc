@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+<div class="jumbotron text-center">
+  <h1>My Biodata</h1>
+  <p class="text-info">This is me, C'mon you can know about my self!</p> 
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>My self</h3>
+      <p>My name : Vania Farah Candrawati</p>
+      <p>TTL 	 : 3 Mei 2001</p>
+      <p>Address : Kendangsari Blok A no 10
+    </div>
+    <table class="table">
+    <thead>
+      <tr>
+      <th>My hobby</th> </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>Playing Basketball</td>
+      <td>Listening to music</td>
+      <td>Try a new experience</td>
+      </tr>
+    </div>
+    <div class="col-sm-4"> 
+    <div class="alert alert-info">
+      <h3><span class="badge badge-secondary">My Motivation</span></h3 
+    <div class="alert alert-info">
+    <strong>Hidup itu perjuangan!</strong> Jangan pernah menyerah meskipun gagal karena percayalah hari esok masih ada
+  </div>
+  <h2>My Experience about WEB</h2>
+  <p>I have a chance for study about HTML and this is my ability:</p>
+  <div class="progress">
+    <div class="progress-bar" style="width:70%"></div>
+</div>
+
+</body>
+</html>
